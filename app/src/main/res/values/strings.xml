@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Student Tracking System</string>
+    <string name="student_tracking_system">Student Tracking System</string>
+    <string name="login">Login</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="create_id">Create ID</string>
+    <string name="create_password">Create Password</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="signup">Signup</string>
+    <string name="title_activity_admin_maps">AdminMapsActivity</string>
+    <string name="enter_student_id">Enter Student ID</string>
+    <string name="enter_date_dd_mm_yyyy">Enter Date (DD/MM/YYYY)</string>
+    <string name="go">Go</string>
+    <string name="title_activity_students_maps">StudentsMapsActivity</string>
+</resources>
